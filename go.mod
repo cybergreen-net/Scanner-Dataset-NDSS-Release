@@ -7,7 +7,7 @@ require (
 	github.com/emersion/go-msgauth v0.6.8
 	github.com/gin-gonic/gin v1.9.1
 	github.com/zmap/go-iptree v0.0.0-20210731043055-d4e632617837
-	golang.org/x/net v0.20.0
+	golang.org/x/net v0.21.0
 )
 
 require (
@@ -35,7 +35,7 @@ require (
 	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
 	github.com/ugorji/go/codec v1.2.11 // indirect
 	golang.org/x/arch v0.3.0 // indirect
-	golang.org/x/crypto v0.18.0 // indirect
+	golang.org/x/crypto v0.19.0 // indirect
 	google.golang.org/protobuf v1.30.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
@@ -50,7 +50,7 @@ require (
 	github.com/vodkaslime/wildcard v0.0.0-20220926070406-71dac9214330
 	github.com/xrash/smetrics v0.0.0-20201216005158-039620a65673 // indirect
 	golang.org/x/mod v0.14.0 // indirect
-	golang.org/x/sys v0.16.0 // indirect
+	golang.org/x/sys v0.17.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/tools v0.17.0 // indirect
 )
