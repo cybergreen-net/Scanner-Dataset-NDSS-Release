@@ -1,0 +1,10 @@
+tls-scan
+bin/
+results/
+.vscode/*
+/orchestrator/input/*
+/orchestrator/output/*
+input/*
+__pycache__/*
+*.pyc
+*.zip
